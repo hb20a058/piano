@@ -7,11 +7,11 @@
 - グランブルーファンタジー
 
 ## 好きなアニメ
--SSSS.GRIDMAN
--SSSS.DYNAZENON
--Takt op. 
+- SSSS.GRIDMAN
+- SSSS.DYNAZENON
+- Takt op. 
 
 ## 好きな食べ物
--ステーキ
--ラーメン
--鍋
+- ステーキ
+- ラーメン
+- 鍋
