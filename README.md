@@ -5,3 +5,8 @@
 - キングダムハーツシリーズ
 - 素晴らしきこの世界 The World End With You
 - グランブルーファンタジー
+
+## 好きなアニメ
+-SSSS.GRIDMAN
+-SSSS.DYNAZENON
+-Takt op. 
