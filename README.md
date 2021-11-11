@@ -10,3 +10,8 @@
 -SSSS.GRIDMAN
 -SSSS.DYNAZENON
 -Takt op. 
+
+## 好きな食べ物
+-ステーキ
+-ラーメン
+-鍋
